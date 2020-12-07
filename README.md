@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Check out my personal blog at [https://blog.niklas-e.fi](https://blog.niklas-e.fi)
+
 <!--
 **niklas-e/niklas-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
